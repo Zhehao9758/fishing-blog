@@ -1,0 +1,12 @@
+.button{
+    display: flex;
+    background-color: #e6f4ff;
+    border: none;
+    color: black;
+    font-family: Didot;
+    font-size: 19px;
+    font-weight: 10;
+    display: block;
+    text-align: center;
+    height: 25px;
+}

@@ -1,0 +1,29 @@
+.header{
+    height: 70px;
+    background-color: white;
+    position: sticky;
+    border-bottom: solid;
+    border-bottom-color: #adadad;
+    border-bottom-width: 1px;
+}
+.header-left{
+    font-size: 30px;
+    line-height: 70px;
+    left: 15px;
+    position: absolute;
+ }
+.header-mid{
+    font-size: 25px;
+    line-height: 70px;
+    position: absolute;
+    color: black;
+    left: 250px;
+}
+.header-right{
+    position: absolute;
+    font-size: 15px;
+    line-height: 70px;
+    text-align: right;
+    right: 10px;
+    bottom: 0;
+}

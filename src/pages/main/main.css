@@ -1,0 +1,19 @@
+body {
+    font-family: initial;
+    background-image: initial;
+    display: block;
+    flex-direction: initial;
+    justify-content: initial;
+    align-items: initial;
+    height: 100%;
+    margin: initial;
+    box-sizing: initial;
+}
+html,body{
+    height:100%;
+    width:100%;
+}
+
+.left{
+    margin: 0;
+}
